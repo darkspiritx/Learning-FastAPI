@@ -1,4 +1,4 @@
-
+#this code only for  test database connection !!!
 from database import get_connection
 
 try:
